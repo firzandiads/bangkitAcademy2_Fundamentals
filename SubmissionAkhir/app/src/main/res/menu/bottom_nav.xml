@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_finished"
+        android:icon="@drawable/ic_notif"
+        android:title="Finished" />
+
+
+    <item
+        android:id="@+id/navigation_upcoming"
+        android:icon="@drawable/ic_book"
+        android:title="Upcoming" />
+
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_love_unfill"
+        android:title="Favorite" />
+
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_setting"
+        android:title="Settings" />
+
+
+</menu>

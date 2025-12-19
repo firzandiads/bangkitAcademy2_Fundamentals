@@ -1,0 +1,21 @@
+<resources>
+    <style name="Theme.SubmissionAwal" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/bg_item2</item>
+        <item name="colorPrimaryVariant">@color/warna_love2</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <item name="colorSecondary">@color/btn_regis2</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Background -->
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/warna_love2</item>
+    </style>
+
+    <color name="warna_love">#FF69B4</color>
+    <color name="warna_garis">#5C5F61</color>
+    <color name="btn_regis">#10B981</color>
+    <color name="bg_item">#1E3A8A</color>
+
+</resources>
